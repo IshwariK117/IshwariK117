@@ -10,9 +10,7 @@
 - 🔭 I’m in the **3rd year of B.Tech Computer Science**
 
 - 📫 How to reach me **ishwarikape117@gmail.com**
-
-- 👯 I’m currently learning **Cloud Computing,Artificial Intellingence and Machine Learning**
-
+  
 - 🤝 I’m working on **Web Development**
 
 - 👨‍💻 Languages Known: **C,C++,HTML,CSS,Javascript,Python**

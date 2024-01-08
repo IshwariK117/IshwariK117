@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ishwari Kape</h1>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwarikape&label=Profile%20views&color=0e75b6&style=flat" alt="ishwarikape" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ishwarik117" target="blank"><img src="https://img.shields.io/twitter/follow/ishwarik117?logo=twitter&style=for-the-badge" alt="ishwarik117" /></a> </p>

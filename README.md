@@ -30,3 +30,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishwarikape&" alt="ishwarikape" /></p>
 
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- My Socials ---------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> The Online Hangout
+
+<div align="center">
+
+   <a href="https://www.linkedin.com/in/ishwarikape/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:ishwarikape117@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  
+  <a href="https://twitter.com/ishwarik117"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Anmol_Codes" ></a>
+  
+</div>

@@ -1,4 +1,3 @@
-![logo](https://github.com/IshwariKape/IshwariKape/blob/main/Navy%20And%20White%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Ishwari Kape</h1>
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">

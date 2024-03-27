@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishwari Kape</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Computer Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishwarik117&label=Profile%20views&color=0e75b6&style=flat" alt="ishwarik117" /> </p>
 

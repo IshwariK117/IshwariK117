@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishwarik117" alt="ishwarik117" /></a> </p>
 
-- 🌱 I’m currently learning **Python ,Data Science ,PostgreSQL ,AI/Ml**
+- 🌱 I’m currently learning **Python ,Data Science ,PostgreSQL ,AI/ML**
 
 - 📫 How to reach me **ishwarikape117@gmail.com**
 - :) Visit My Portfolio **https://ishwarik117.github.io/ishwari-kape/**

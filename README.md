@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Python ,Data Science ,PostgreSQL ,AI/ML**
 
 - 📫 How to reach me **ishwarikape117@gmail.com**
-- :) Visit My Portfolio **https://ishwarik117.github.io/ishwari-kape/**
+- :) Visit My Portfolio **https://ishwarik117.github.io/ishwarik_portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
